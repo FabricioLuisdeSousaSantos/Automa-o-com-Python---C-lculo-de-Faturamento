@@ -1,1 +1,1 @@
-# Automa-o-com-Python---C-lculo-de-Faturamento
+Automação com Python, para calculo faturamento com PyautoGUI
